@@ -20,7 +20,6 @@ function compare<T extends AllType, U extends AllType>(
 export {};
 
 //=========================================================
-
 // function compare(top, bottom): AllType {
 //   return {
 //     name: top.name,
